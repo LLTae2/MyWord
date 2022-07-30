@@ -1,8 +1,9 @@
 import React from 'react'
+import "../style/MainContent.css"
 
 const MainContent = () => {
   return (
-    <div>MainContent</div>
+    <div className='MainContent'>MainContent</div>
   )
 }
 
